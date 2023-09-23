@@ -1,0 +1,20 @@
+{
+    "_id": "6jhgyu776jh",
+    "name": "My User Group 1",
+    "metaData": {
+        "description": "My user group",
+        "extraFields": ""
+    },
+    "users": [
+        {
+            "_id": "76567565",
+            "name": "John",
+            "email": "john@gmail.com",
+            "phone": "876786767"
+        }
+    ],
+    "userIds": [
+        "87678687",
+        "userid2"
+    ]
+}

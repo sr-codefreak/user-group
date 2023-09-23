@@ -1,0 +1,17 @@
+{
+    "_id": "6jhgyu776jh",
+    "name": "John",
+    "email": "john@gmail.com",
+    "phone": "876786767",
+    "metaData": {},
+    "usersGroups": [
+        {
+            "_id": "6jhgyu776jh",
+            "name": "My User Group 1"
+        }
+    ],
+    "userGroupIds": [
+        "87678687",
+        "usergpid2"
+    ]
+}
